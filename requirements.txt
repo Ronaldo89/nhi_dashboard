@@ -1,0 +1,17 @@
+voila
+ipywidgets
+pandas
+numpy
+plotly
+geopandas
+shapely
+pyproj
+fiona
+openpyxl
+datetime
+timedelta
+display
+clear_output
+plotly.graph_objects
+plotly.express
+threading
